@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\laingpatrAss1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{654E06A3-611B-44A9-8C19-889F81975EED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\laingpatrAss1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\laingpatrAss1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{99E5527E-EC48-48E5-9B4A-8AA989915727}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\laingpatrAss1">
+      <UniqueIdentifier>{67E53918-2E5C-4BB8-82B2-2CDAD0173F63}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\laingpatrAss1\laingpatrAss1.Build.cs">
+      <Filter>Source\laingpatrAss1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\laingpatrAss1\laingpatrAss1.cpp">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\laingpatrAss1\laingpatrAss1.h">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\laingpatrAss1\laingpatrAss1Ball.cpp">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\laingpatrAss1\laingpatrAss1Ball.h">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\laingpatrAss1\laingpatrAss1GameMode.cpp">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\laingpatrAss1\laingpatrAss1GameMode.h">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\laingpatrAss1\MyActor.cpp">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\laingpatrAss1\MyActor.h">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\laingpatrAss1\NewActorComponent.cpp">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\laingpatrAss1\NewActorComponent.h">
+      <Filter>Source\laingpatrAss1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

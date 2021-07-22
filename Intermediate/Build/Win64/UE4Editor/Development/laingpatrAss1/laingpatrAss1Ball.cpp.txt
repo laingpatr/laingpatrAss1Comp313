@@ -1,0 +1,9 @@
+C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\Definitions.laingpatrAss1.h
+c:\users\patla\onedrive\documents\year_3\comp313\laingpatrass1\source\laingpatrass1\laingpatrAss1Ball.h
+C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Inc\laingpatrAss1\laingpatrAss1Ball.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h

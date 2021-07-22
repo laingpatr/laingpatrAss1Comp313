@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "laingpatrAss1",
+			"Path": "C:\\Users\\patla\\OneDrive\\Documents\\YEAR_3\\COMP313\\laingpatrAss1\\Source\\laingpatrAss1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "laingpatrAss1Editor",
+			"Path": "C:\\Users\\patla\\OneDrive\\Documents\\YEAR_3\\COMP313\\laingpatrAss1\\Source\\laingpatrAss1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
