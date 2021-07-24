@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\patla\\OneDrive\\Documents\\YEAR_3\\COMP313\\laingpatrAss1\\Source\\laingpatrAss1\\laingpatrAss1.Build.cs",
-		"C:\\Users\\patla\\OneDrive\\Documents\\YEAR_3\\COMP313\\laingpatrAss1\\Source\\laingpatrAss1.Target.cs",
-		"C:\\Users\\patla\\OneDrive\\Documents\\YEAR_3\\COMP313\\laingpatrAss1\\Source\\laingpatrAss1Editor.Target.cs"
+		"C:\\Users\\patla\\Documents\\COMP313\\laingpatrAss1\\Source\\laingpatrAss1\\laingpatrAss1.Build.cs",
+		"C:\\Users\\patla\\Documents\\COMP313\\laingpatrAss1\\Source\\laingpatrAss1.Target.cs",
+		"C:\\Users\\patla\\Documents\\COMP313\\laingpatrAss1\\Source\\laingpatrAss1Editor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }
