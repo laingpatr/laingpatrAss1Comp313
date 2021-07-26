@@ -1,0 +1,21 @@
+Game Description:
+
+ - What is the main action in the game?
+ -- The main action of the game is rolling a ball down a course in a traditional plinko manor. In this game the player controls a
+yellow and black ball that moves left and right on the player's input. The normal pegs in plinko have been switch out for rotating
+squares, this gives the game more strategy than the normal version of plinko as player's interaction can cause less collisions than
+normal plinko, making the gameplay faster. The goal is to get to the bottom of the board and hit a golden rotating cube, which 
+gives the player 5 points and teleports them to the top of the map. There is also an actor controlled by gravity and the player
+colliding with it, when this actor gets to one of the gold cubes, it teleports to the top of the map and the player is given 10 
+points. The goal of the game is to get to 100 points as quickly as possible.
+
+ - What was the hardest part of the game to get working in Unreal?
+ -- The hardest part of the game to get working was the sound and specifically volume control. I wanted a slider that changed the
+volume of the music, but since the music was played on loop from the start and not set as a variable, I did not know how to do this.
+Eventually I did change the sound to a variable where I was able to set the volume to the value of the slider in the pause menu.
+
+ - What is the most interesting part of the game?
+ -- The most interesting part of the game is that there are many strategies to get to 100 points. For example the player could try
+and get themselves to the bottom as fast as possible, leaving the black ball to fall by itself for the occasional 10 points, or 
+the player could try and push the black ball down with it, meaning the reward for reaching the bottom is effectively 15 points, 
+or the player could leave the keyboard entirely and let gravity and physics do its thing for a slow victory.
