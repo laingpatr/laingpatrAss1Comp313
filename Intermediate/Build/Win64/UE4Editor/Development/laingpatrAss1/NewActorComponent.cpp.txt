@@ -1,3 +1,3 @@
-C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\Definitions.laingpatrAss1.h
-c:\users\patla\documents\comp313\laingpatrass1\source\laingpatrass1\NewActorComponent.h
-C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Inc\laingpatrAss1\NewActorComponent.generated.h
+C:\Users\patla\Documents\Github\laingpatrAss1Comp313\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\Definitions.laingpatrAss1.h
+c:\users\patla\documents\github\laingpatrass1comp313\source\laingpatrass1\NewActorComponent.h
+C:\Users\patla\Documents\Github\laingpatrAss1Comp313\Intermediate\Build\Win64\UE4Editor\Inc\laingpatrAss1\NewActorComponent.generated.h

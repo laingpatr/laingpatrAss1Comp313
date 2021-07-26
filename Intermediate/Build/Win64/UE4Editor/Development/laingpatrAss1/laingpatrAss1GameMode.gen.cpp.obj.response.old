@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Inc\laingpatrAss1
-/I C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Source
+/I C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Inc\laingpatrAss1
+/I C:\Users\patla\Documents\COMP313\laingpatrAss1\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\laingpatrAss1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\laingpatrAss1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\laingpatrAss1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Inc\laingpatrAss1\laingpatrAss1GameMode.gen.cpp"
-/FI"C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\Definitions.laingpatrAss1.h"
-/Fo"C:\Users\patla\OneDrive\Documents\YEAR_3\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\laingpatrAss1GameMode.gen.cpp.obj"
+/FI"C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\laingpatrAss1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\laingpatrAss1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\laingpatrAss1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Inc\laingpatrAss1\laingpatrAss1GameMode.gen.cpp"
+/FI"C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\Definitions.laingpatrAss1.h"
+/Fo"C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\laingpatrAss1GameMode.gen.cpp.obj"
 /TP
 /GR-
 /W4

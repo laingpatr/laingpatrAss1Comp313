@@ -1,5 +1,5 @@
-C:\Users\patla\Documents\COMP313\laingpatrAss1\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\Definitions.laingpatrAss1.h
+C:\Users\patla\Documents\Github\laingpatrAss1Comp313\Intermediate\Build\Win64\UE4Editor\Development\laingpatrAss1\Definitions.laingpatrAss1.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\patla\Documents\COMP313\laingpatrAss1\Source\laingpatrAss1/Rotater.h
-c:\users\patla\documents\comp313\laingpatrass1\intermediate\build\win64\ue4editor\inc\laingpatrass1\Rotater.generated.h
+C:\Users\patla\Documents\Github\laingpatrAss1Comp313\Source\laingpatrAss1/Rotater.h
+c:\users\patla\documents\github\laingpatrass1comp313\intermediate\build\win64\ue4editor\inc\laingpatrass1\Rotater.generated.h
